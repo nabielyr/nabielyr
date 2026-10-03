@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Nabiel, a forever student and an aspiring AI/ML engineer based in Indonesia.
+I'm Biel, a forever student and an aspiring AI/ML engineer based in Indonesia.
 
 If an interesting idea pops into my head, chances are I will build it.
 
@@ -8,7 +8,7 @@ My main tech stack is currently Python, Java, and PHP.
 
 I have a bunch of pinned projects below that showcase what I enjoy building!
 
-# Beyond code:
+### Beyond code:
 
 * I love cats
 * I have an over 940 day streak in Mandarin on Duolingo
