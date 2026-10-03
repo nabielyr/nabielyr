@@ -12,7 +12,7 @@ I have a bunch of pinned projects below that showcase what I enjoy building!
 
 * I love cats
 * I have an over 940 day streak in Mandarin on Duolingo
-* I think everybody should give the Monogatari series a try
+* I think everybody should give Monogatari Series a try
 * I love to keep everything documented and neat
 
 <!--
