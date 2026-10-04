@@ -1,4 +1,4 @@
-# Hello there, my friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave">
+# Welcome, my friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabiel-yandra)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nabielyandra@gmail.com)
@@ -11,7 +11,7 @@ If an interesting idea pops into my head, chances are I will build it, always lo
 
 I have a bunch of pinned projects below that showcase what I enjoy building!
 
-### Technologies
+### Tech Stack
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
