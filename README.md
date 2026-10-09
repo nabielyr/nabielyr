@@ -49,9 +49,9 @@ I have a bunch of pinned projects below that showcase what I enjoy building!
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c2/21/6c/c2216cf1c1cbaf713ead3037df577c3e.gif" width="55%" alt="Monogatari GIF" />
-  &nbsp;
-  <img src="https://tenor.com/view/hole-mole-gif-15174115762281082489" width="15%" alt="Holy Moly" />
+  <img src="https://i.pinimg.com/originals/c2/21/6c/c2216cf1c1cbaf713ead3037df577c3e.gif" width="55%" align="middle" alt="Monogatari GIF" />
+  &nbsp;&nbsp;
+  <img src="https://media1.tenor.com/m/SVPqlEgoRKUAAAAC/holy-moly.gif" width="16%" align="middle" alt="Holy Moly GIF" />
 </p>
 
 <p align="center">
