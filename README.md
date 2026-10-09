@@ -49,7 +49,7 @@ I have a bunch of pinned projects below that showcase what I enjoy building!
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c2/21/6c/c2216cf1c1cbaf713ead3037df577c3e.gif" width="70%" alt="Monogatari GIF" />
+  <img src="https://i.pinimg.com/originals/c2/21/6c/c2216cf1c1cbaf713ead3037df577c3e.gif" width="60%" alt="Monogatari GIF" />
 </p>
 
 <p align="center">
