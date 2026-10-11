@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nabielyr)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@seintiment)
 
-I'm [Nabiel](https://nabiel-portofolio-five.vercel.app/), a forever student and aspiring AI/ML engineer, currently studying at Brawijaya University, Indonesia.
+I'm [Nabiel](https://nabielyr.github.io/), a forever student and aspiring AI/ML engineer, currently studying at Brawijaya University, Indonesia.
 
 If an interesting idea pops into my head, chances are I will build it, always looking for the next exciting project to build.
 
